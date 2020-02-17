@@ -5,6 +5,6 @@ import sun.applet.AppletSecurity;
 public class Helloworld {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!  I am here to destroy.");
+        System.out.println("Hello World!  I am here to destroy.  There is no hope.");
     }
 }
